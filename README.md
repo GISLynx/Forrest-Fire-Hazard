@@ -1,22 +1,35 @@
 <h1>Forest Fire Hazard</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### Summary of my independet study
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Forest fires occur every year in Spain, causing extensive economic and
+biodiversity damage. Thanks to advancements in technology, there is a multitude of
+tools in geographic information systems to analyze specific factors connected to the
+ignition and spread of forest fires. In this way, the government can take action to
+prevent them.
+The following project analyzes different variables related to hazard and vulnerability to
+determine the risk of forest fires in the municipality of Hinojosa del Duque.
+Understanding the characteristics of the forest mass and how human activities are
+involved helps determine the risk this municipality could face. Therefore, using GIS and
+various statistical processes, it is possible to identify the most problematic areas and
+allocate resources to prevent the highest possible damage
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages and software Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>ARCGIS</b> 
+- <b>QGIS</b>
+- <b>Python</b>
+- <b>Excel</b>
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2>
+<b></b>
 
 <p align="center">
 Launch the utility: <br/>
