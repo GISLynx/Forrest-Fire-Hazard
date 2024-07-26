@@ -3,7 +3,7 @@
  ### Summary of my independet study
 
 <h2>Description</h2>
-Forest fires occur every year in Spain, causing extensive economic and
+<p>Forest fires occur every year in Spain, causing extensive economic and
 biodiversity damage. Thanks to advancements in technology, there is a multitude of
 tools in geographic information systems to analyze specific factors connected to the
 ignition and spread of forest fires. In this way, the government can take action to
@@ -14,22 +14,26 @@ Understanding the characteristics of the forest mass and how human activities ar
 involved helps determine the risk this municipality could face. Therefore, using GIS and
 various statistical processes, it is possible to identify the most problematic areas and
 allocate resources to prevent the highest possible damage
-<br />
+</p>
 
 
 <h2>Languages and software Used</h2>
 
-- <b>ARCGIS</b> 
-- <b>QGIS</b>
-- <b>Python</b>
-- <b>Excel</b>
+- <p>ARCGIS</p> 
++ <p>QGIS</p>
+* <p>Python</p>
+- <p>Excel</p>
 
-<h2>Environments Used </h2>
+<h2>Metodology</h2>
+<p>The goal of this metodology  is to create cartography related to the risk of forrest fire in Hinojosa del Duque, Cordoba, Spain. To do so, I have created a model on ARCGIS Desktop using different variable based on <a href="https://www.juntadeandalucia.es/medioambiente/portal/landing-page-publicacion/-/asset_publisher/FytOUWH22K7t/content/plan-infoca.-un-plan-de-acci-c3-b3n-al-servicio-del-monte-mediterr-c3-a1neo-andaluz-2003-/20151">INFOCA PLAN</a></p>
 
-- <b>Windows 10</b> (21H2)
+<h3>hazard of forest fire</h3>
 
-<h2>Program walk-through:</h2>
-<b></b>
+<p>INFOCA PLAN describe the hazard in two different variables. The first one is related to the long term danger and the second one to short term.In this case I focused on the long term variables, those ones talks about the combustibility of the vegetation and the slope, which promote convective currents. For the vulnerability I created two variables based on two different point of view. The first one consist on the human value over monetary values of objects; houses, famrs, historical site, protected area, etc. At the end I miss the data of the hazar and vulnerability to know the risk of forrest fires in Hinojosa del Duque. </p>  
+
+<h2>Model walk-through and results:</h2>
+<b>Calculating forrest fire hazard.</b>
+
 
 <p align="center">
 Launch the utility: <br/>
@@ -60,12 +64,4 @@ Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
