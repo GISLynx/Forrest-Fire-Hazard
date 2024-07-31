@@ -35,7 +35,7 @@ allocate resources to prevent the highest possible damage
 <b>Calculating forrest fire hazard.</b>
 
 
-<p align="center">
+<b align="center">
 Area of study: <br/>
 <img src="https://i.imgur.com/JL7ndw0.jpeg" />
 <br />
