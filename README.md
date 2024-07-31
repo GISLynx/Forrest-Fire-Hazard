@@ -36,8 +36,8 @@ allocate resources to prevent the highest possible damage
 
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Area of study: <br/>
+<img src="https://imgur.com/bfWOmWt" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
