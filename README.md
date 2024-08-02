@@ -37,13 +37,13 @@ allocate resources to prevent the highest possible damage
 
 <b align="center">
 Area of study: <br/>
-<img src="https://i.imgur.com/JL7ndw0.jpeg" />
-<br />
+<img src="https://i.imgur.com/JL7ndw0.jpeg"/><br />
+ 
 <b>Caluclating hazard:  <br/>
  
-<p align="justify" > To calculate the danger of forrest fire, INFOCA PLAN describe a metodology called structural hazard which describe the hazard in the long term. This structural hazard is based on the combination of two different variables, which is been implemented on ARCGIS Desktop </p>
+<p align="justify"> To calculate the danger of forrest fire, INFOCA PLAN describe a metodology called structural hazard which describe the hazard in the long term. This structural hazard is based on the combination of two different variables, which is been implemented on ARCGIS Desktop </p>
 
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="60%" width="600%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
