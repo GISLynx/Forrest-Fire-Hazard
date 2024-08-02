@@ -29,7 +29,7 @@ allocate resources to prevent the highest possible damage
 
 <h3>hazard of forest fire</h3>
 
-<p>INFOCA PLAN describe the hazard in two different variables. The first one is related to the long term danger and the second one to short term.In this case I focused on the long term variables, those ones talks about the combustibility of the vegetation and the slope, which promote convective currents. For the vulnerability I created two variables based on two different point of view. The first one consist on the human value over monetary values of objects; houses, famrs, historical site, protected area, etc. At the end I used the data of the hazard and vulnerability to know the risk of forrest fires in Hinojosa del Duque. </p>  
+<p align: "justify" >INFOCA PLAN describe the hazard in two different variables. The first one is related to the long term danger and the second one to short term.In this case I focused on the long term variables, those ones talks about the combustibility of the vegetation and the slope, which promote convective currents. For the vulnerability I created two variables based on two different point of view. The first one consist on the human value over monetary values of objects; houses, famrs, historical site, protected area, etc. At the end I used the data of the hazard and vulnerability to know the risk of forrest fires in Hinojosa del Duque. </p>  
 
 <h2>Model walk-through and results:</h2>
 <b>Calculating forrest fire risk.</b>
@@ -41,7 +41,7 @@ Area of study: <br/>
  
 <b>Caluclating hazard:</b>
  
-<p align="justify" font-weight: normal > To calculate the danger of forrest fire, INFOCA PLAN describe a metodology called structural hazard which describe the hazard in the long term. This structural hazard is based on the combination of two different variables, which is been implemented on ARCGIS Desktop </p>
+<p> To calculate the danger of forrest fire, INFOCA PLAN describe a metodology called structural hazard which describe the hazard in the long term. This structural hazard is based on the combination of two different variables, which is been implemented on ARCGIS Desktop </p>
 
 <img src="https://i.imgur.com/tcTyMUE.png" height="60%" width="600%" alt="Disk Sanitization Steps"/><br />
 <b>Enter the number of passes: <br/>
@@ -63,5 +63,5 @@ Sanitization complete:  <br/>
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-p{font-family: Arial, normal;}
+<style> p {align: "justify", font: "normal";}</style>
 
