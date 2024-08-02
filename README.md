@@ -41,12 +41,10 @@ Area of study: <br/>
  
 <b>Caluclating hazard:</b>
  
-<p align="justify" font-weight="normal" > To calculate the danger of forrest fire, INFOCA PLAN describe a metodology called structural hazard which describe the hazard in the long term. This structural hazard is based on the combination of two different variables, which is been implemented on ARCGIS Desktop </p>
+<p align="justify" font-weight: normal > To calculate the danger of forrest fire, INFOCA PLAN describe a metodology called structural hazard which describe the hazard in the long term. This structural hazard is based on the combination of two different variables, which is been implemented on ARCGIS Desktop </p>
 
-<img src="https://i.imgur.com/tcTyMUE.png" height="60%" width="600%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="60%" width="600%" alt="Disk Sanitization Steps"/><br />
+<b>Enter the number of passes: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -65,5 +63,5 @@ Sanitization complete:  <br/>
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
+p{font-family: Arial, normal;}
 
