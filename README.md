@@ -32,7 +32,7 @@ allocate resources to prevent the highest possible damage
 <p>INFOCA PLAN describe the hazard in two different variables. The first one is related to the long term danger and the second one to short term.In this case I focused on the long term variables, those ones talks about the combustibility of the vegetation and the slope, which promote convective currents. For the vulnerability I created two variables based on two different point of view. The first one consist on the human value over monetary values of objects; houses, famrs, historical site, protected area, etc. At the end I used the data of the hazar and vulnerability to know the risk of forrest fires in Hinojosa del Duque. </p>  
 
 <h2>Model walk-through and results:</h2>
-<b>Calculating forrest fire hazard.</b>
+<b>Calculating forrest fire risk.</b>
 
 
 <b align="center">
