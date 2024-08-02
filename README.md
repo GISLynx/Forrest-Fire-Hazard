@@ -29,7 +29,7 @@ allocate resources to prevent the highest possible damage
 
 <h3>hazard of forest fire</h3>
 
-<p>INFOCA PLAN describe the hazard in two different variables. The first one is related to the long term danger and the second one to short term.In this case I focused on the long term variables, those ones talks about the combustibility of the vegetation and the slope, which promote convective currents. For the vulnerability I created two variables based on two different point of view. The first one consist on the human value over monetary values of objects; houses, famrs, historical site, protected area, etc. At the end I used the data of the hazar and vulnerability to know the risk of forrest fires in Hinojosa del Duque. </p>  
+<p>INFOCA PLAN describe the hazard in two different variables. The first one is related to the long term danger and the second one to short term.In this case I focused on the long term variables, those ones talks about the combustibility of the vegetation and the slope, which promote convective currents. For the vulnerability I created two variables based on two different point of view. The first one consist on the human value over monetary values of objects; houses, famrs, historical site, protected area, etc. At the end I used the data of the hazard and vulnerability to know the risk of forrest fires in Hinojosa del Duque. </p>  
 
 <h2>Model walk-through and results:</h2>
 <b>Calculating forrest fire risk.</b>
@@ -39,8 +39,7 @@ allocate resources to prevent the highest possible damage
 Area of study: <br/>
 <img src="https://i.imgur.com/JL7ndw0.jpeg" />
 <br />
-<br />
-Select the disk:  <br/>
+<b>caluclating Hazard:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
