@@ -37,31 +37,29 @@ allocate resources to prevent the highest possible damage
 
 <b align="justify">
 Area of study: <br/>
-<img src="https://i.imgur.com/JL7ndw0.jpeg"/></br>
+<img src="https://i.imgur.com/JL7ndw0.jpeg"height="70%" width="70%/></br>
  
 <b>Caluclating hazard:</b>
 
 <p>To calculate the danger of forrest fire, INFOCA PLAN describe a metodology called structural hazard which describe the hazard in the long term. This structural hazard is based on the combination of two different variables</p>
 
-<img src="https://i.imgur.com/FD4Ogvj.png" height="60%" width="600%" alt="INFOCA PLAN METODOLOGY"/><br />
+<img src="https://i.imgur.com/FD4Ogvj.png" height="50%" width="50%" alt="INFOCA PLAN METODOLOGY"/><br/>
 <b>Enter the variables into ArcGIS: <br/>
-<img src="https://i.imgur.com/aQojJyF.png" height="80%" width="80%" alt="Metodology on ArcGIS"/>
+<img src="https://i.imgur.com/aQojJyF.png" height="60%" width="60%" alt="Metodology on ArcGIS"/><br />
+<p> The process can be summarized in two stages. In the first stage, I reclassified the digital terrain model into 5 categories and reclassified the land use layer of Andalusia according to the fuel model. Then, I combined the results of both to determine the combustibility index.</p>
+<b>Results  <br/>
+<img src="https://i.imgur.com/CyhC1lS.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Calculating the vulerability  <br/>
+<img src="https://i.imgur.com/8GPp9su.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />Naismith formula; <br/>
+<img src="https://i.imgur.com/OEzwWe5.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+Enter the variables intor ArcGIS:  <br/>
+<img src="https://i.imgur.com/piictM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> To develop the vulnerability, I reclassified different significant elements of human activities listed in the table above. Subsequently, I calculated the distance that these activities have with respect to the main communication routes, which is where the fire extinguishing devices would come from. This distance was normalized on a scale of 1 to 5 to be comparable with the previously made reclassification. Finally, both were multiplied and normalized once more from 1 to 5 to obtain the vulnerability of the study area</p>
 
 
