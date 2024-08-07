@@ -25,11 +25,11 @@ allocate resources to prevent the highest possible damage
 - <p>Excel</p>
 
 <h2>Metodology</h2>
-<p>The goal of this metodology  is to create cartography related to the risk of forrest fire in Hinojosa del Duque, Cordoba, Spain. To do so, I have created a model on ARCGIS Desktop using different variable based on <a href="https://www.juntadeandalucia.es/medioambiente/portal/landing-page-publicacion/-/asset_publisher/FytOUWH22K7t/content/plan-infoca.-un-plan-de-acci-c3-b3n-al-servicio-del-monte-mediterr-c3-a1neo-andaluz-2003-/20151">INFOCA PLAN</a></p>
+<p>The goal of this methodology  is to create cartography related to the risk of forest fire in Hinojosa del Duque, Cordoba, Spain. To do so, I have created a model on ArcGIS Desktop using different variables based on <a href="https://www.juntadeandalucia.es/medioambiente/portal/landing-page-publicacion/-/asset_publisher/FytOUWH22K7t/content/plan-infoca.-un-plan-de-acci-c3-b3n-al-servicio-del-monte-mediterr-c3-a1neo-andaluz-2003-/20151">INFOCA PLAN</a></p>
 
 <h3>hazard of forest fire</h3>
 
-<p align: "justify" >INFOCA PLAN describe the hazard in two different variables. The first one is related to the long term danger and the second one to short term.In this case I focused on the long term variables, those ones talks about the combustibility of the vegetation and the slope, which promote convective currents. For the vulnerability I created two variables based on two different point of view. The first one consist on the human value over monetary values of objects; houses, famrs, historical site, protected area, etc. At the end I used the data of the hazard and vulnerability to know the risk of forrest fires in Hinojosa del Duque. </p>  
+<p align: "justify" >INFOCA Plan describes the risk of forest fires using two different variables. The first one is related to long-term danger and the second one to short-term danger. In this case, I focused on the long-term variables, which talk about the combustibility of the vegetation and the slope, which promote convective currents. For the vulnerability, I created two variables based on two different points of view. The first one consists of the human value over monetary values of objects, such as houses, farms, historical sites, protected areas, etc. In the end, I used the data on the hazard and vulnerability to determine the risk of forest fires in Hinojosa del Duque.. </p>  
 
 <h2>Model walk-through and results:</h2>
 <b>Calculating forrest fire risk.</b>
@@ -41,10 +41,10 @@ Area of study: <br/>
  
 <b>Caluclating hazard:</b>
 
-<p>To calculate the danger of forrest fire, INFOCA PLAN describe a metodology called structural hazard which describe the hazard in the long term. This structural hazard is based on the combination of two different variables, which is been implemented on ARCGIS Desktop</p>
+<p>To calculate the danger of forrest fire, INFOCA PLAN describe a metodology called structural hazard which describe the hazard in the long term. This structural hazard is based on the combination of two different variables</p>
 
-<img src="https://i.imgur.com/tcTyMUE.png" height="60%" width="600%" alt="INFOCA PLAN METODOLOGY"/><br />
-<b>Enter the number of passes: <br/>
+<img src="https://i.imgur.com/FD4Ogvj.png" height="60%" width="600%" alt="INFOCA PLAN METODOLOGY"/><br />
+<b>Enter the variables into ArcGIS: <br/>
 <img src="https://i.imgur.com/aQojJyF.png" height="80%" width="80%" alt="Metodology on ArcGIS"/>
 <br />
 <br />
