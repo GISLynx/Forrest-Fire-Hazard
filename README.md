@@ -43,9 +43,9 @@ Area of study: <br/>
 
 <p>To calculate the danger of forrest fire, INFOCA PLAN describe a metodology called structural hazard which describe the hazard in the long term. This structural hazard is based on the combination of two different variables, which is been implemented on ARCGIS Desktop</p>
 
-<img src="https://i.imgur.com/tcTyMUE.png" height="60%" width="600%" alt="Disk Sanitization Steps"/><br />
+<img src="https://i.imgur.com/tcTyMUE.png" height="60%" width="600%" alt="INFOCA PLAN METODOLOGY"/><br />
 <b>Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aQojJyF.png" height="80%" width="80%" alt="Metodology on ArcGIS"/>
 <br />
 <br />
 Confirm your selection:  <br/>
