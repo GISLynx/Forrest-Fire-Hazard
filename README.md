@@ -24,7 +24,7 @@ allocate resources to prevent the highest possible damage
 * <p>Python</p>
 - <p>Excel</p>
 
-<h2>Metodology</h2>
+<h2>Methodology</h2>
 <p>The goal of this methodology  is to create cartography related to the risk of forest fire in Hinojosa del Duque, Cordoba, Spain. To do so, I have created a model on ArcGIS Desktop using different variables based on <a href="https://www.juntadeandalucia.es/medioambiente/portal/landing-page-publicacion/-/asset_publisher/FytOUWH22K7t/content/plan-infoca.-un-plan-de-acci-c3-b3n-al-servicio-del-monte-mediterr-c3-a1neo-andaluz-2003-/20151">INFOCA PLAN</a></p>
 
 <h3>Hazard of forest fires.</h3>
