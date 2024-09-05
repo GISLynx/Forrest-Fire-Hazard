@@ -17,7 +17,7 @@ allocate resources to prevent the highest possible damage
 </p>
 
 
-<h2>Languages and software Used</h2>
+<h2>Languages and Software Used</h2>
 
 - <p>ARCGIS</p> 
 + <p>QGIS</p>
@@ -27,14 +27,14 @@ allocate resources to prevent the highest possible damage
 <h2>Methodology</h2>
 <p>The goal of this methodology  is to create cartography related to the risk of forest fire in Hinojosa del Duque, Cordoba, Spain. To do so, I have created a model on ArcGIS Desktop using different variables based on <a href="https://www.juntadeandalucia.es/medioambiente/portal/landing-page-publicacion/-/asset_publisher/FytOUWH22K7t/content/plan-infoca.-un-plan-de-acci-c3-b3n-al-servicio-del-monte-mediterr-c3-a1neo-andaluz-2003-/20151">INFOCA PLAN</a></p>
 
-<h3>Hazard of forest fires.</h3>
+<h3>Hazard of fForest Fires.</h3>
 
 <p>INFOCA Plan describes the risk of forest fires using two different variables. The first one is related to long-term danger and the second one to short-term danger. In this case, I focused on the long-term variables, which talk about the combustibility of the vegetation and the slope, which promote convective currents. For the vulnerability, I created two variables based on two different points of view. The first one consists of the human value over monetary values of objects, such as houses, farms, historical sites, protected areas, etc. In the end, I used the data on the hazard and vulnerability to determine the risk of forest fires in Hinojosa del Duque.</p>  
 
-<p>Area of study:</p>
+<p>Area of Study:</p>
 <img src="https://i.imgur.com/JL7ndw0.jpeg"height="70%" width="70%>
     
-<b>Calculating hazard.</b>
+<b>Calculating Hazard.</b>
 
 <p>To calculate the danger of forrest fire, INFOCA PLAN describe a metodology called structural hazard which describe the hazard in the long term. This structural hazard is based on the combination of two different variables</p>
 
@@ -48,16 +48,16 @@ allocate resources to prevent the highest possible damage
 <img src="https://i.imgur.com/CyhC1lS.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<b></b>Calculating the vulerability.</b>
+<b></b>Calculating the Vulerability.</b>
  <p> To develop the vulnerability, I reclassified different significant elements of human activities listed in the table below. Subsequently, I calculated the distance that these activities have with respect to the main communication routes, which is where the fire extinguishing devices would come from. This distance was normalized on a scale of 1 to 5 to be comparable with the previously made reclassification. Finally, both were multiplied and normalized once more from 1 to 5 to obtain the vulnerability of the study area</p>
 
 <img src="https://i.imgur.com/8GPp9su.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<b>Naismith formula:</b>
+<b>Naismith Formula:</b>
 
 <img src="https://i.imgur.com/OEzwWe5.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
-<b>Enter the variables intor ArcGIS:</b>
+<b>Enter the Variables into ArcGIS:</b>
 
 <img src="https://i.imgur.com/piictM2.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
@@ -65,7 +65,7 @@ allocate resources to prevent the highest possible damage
 
 <img src="https://i.imgur.com/90c8nEH.jpeg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
-<b>Calculating forestfire risk.</b>
+<b>Calculating Forest Fires Risk.</b>
 
 <p>To generate the forest fires risk map, you simply need to multiply the vulnerability layer with the natural hazard layer. To do this, both layers are first normalized to a scale of 1 to 3, and then after the multiplication, they are normalized again to the same scale to obtain the final result.</p>
 
