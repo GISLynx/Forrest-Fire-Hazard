@@ -20,7 +20,6 @@ allocate resources to prevent the highest possible damage
 <h2>Languages and Software Used</h2>
 
 - <p>ARCGIS</p> 
-+ <p>QGIS</p>
 * <p>Python</p>
 - <p>Excel</p>
 
